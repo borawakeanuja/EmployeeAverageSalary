@@ -2,6 +2,7 @@
 Background:
 Application has Employee class details with it such as First name, Last name, Salary, Department, Designation, OfficeLocation etc.
 Write a logic for given list of employees to find out average salary in each OfficeLocation for all common Designation. Also, try to demonstrate parallel processing for each OfficeLocation.
+
 Sample Input :
 	/* Sample input for employees list as:
 		List<Employee> employees = new ArrayList<>();
